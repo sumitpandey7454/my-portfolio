@@ -5,7 +5,7 @@ const projects = [
     title: 'Job Application Management System',
     desc: 'A backend-heavy system built with Spring Boot. Features layered architecture (Controller–Service–Repository), JWT authentication, Spring Security, MySQL via Hibernate/JPA, and robust exception handling.',
     tech: ['Java', 'Spring Boot', 'MySQL', 'JWT', 'Spring Security'],
-    github: 'https://github.com/sumitpandey7454',
+    github: 'https://github.com/G-39/Job-Sphere',
     color: '#1e40af'
   },
   {
