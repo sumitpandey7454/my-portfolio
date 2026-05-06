@@ -80,7 +80,7 @@ export default function Hero() {
           style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center' }}>
           {[
   { icon: '🐙', href: 'https://github.com/sumitpandey7454' },
-  { icon: '💼', href: 'https://linkedin.com/in/sumit-pandey' },
+  { icon: '💼', href: 'https://www.linkedin.com/in/sumit-pandey-5519b7276' },
   { icon: '📧', href: 'mailto:sumitpandey7454@gmail.com' },
 ].map((s, i) => (
   <a key={i} href={s.href} target="_blank" style={{ fontSize: '1.4rem', textDecoration: 'none' }}>{s.icon}</a>

@@ -3,7 +3,7 @@ import { Mail, Phone } from 'lucide-react'
 const links = [
   { icon: <Mail size={20} />, label: 'sumitpandey7454@gmail.com', href: 'mailto:sumitpandey7454@gmail.com' },
   { icon: <Phone size={20} />, label: '+91 7454824558', href: 'tel:+917454824558' },
-  { icon: '💼', label: 'linkedin.com/in/sumit-pandey', href: 'https://linkedin.com/in/sumit-pandey' },
+  { icon: '💼', label: 'linkedin.com/in/sumit-pandey-5519b7276', href: 'https://www.linkedin.com/in/sumit-pandey-5519b7276' },
   { icon: '🐙', label: 'github.com/sumitpandey7454', href: 'https://github.com/sumitpandey7454' },
 ]
 
