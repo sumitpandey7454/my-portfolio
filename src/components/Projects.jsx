@@ -2,21 +2,21 @@ import { motion } from 'framer-motion'
 import { ExternalLink } from 'lucide-react'
 const projects = [
   {
-    title: 'Job Application Management System',
+    title: '1.Job Application Management System',
     desc: 'A backend-heavy system built with Spring Boot. Features layered architecture (Controller–Service–Repository), JWT authentication, Spring Security, MySQL via Hibernate/JPA, and robust exception handling.',
     tech: ['Java', 'Spring Boot', 'MySQL', 'JWT', 'Spring Security'],
     github : 'https://github.com/sumitpandey7454/JOBSEA/tree/main',
     color: '#1e40af'
   },
   {
-    title: 'SmartShop — MERN E-Commerce',
-    desc: 'Full-stack e-commerce platform built on MERN architecture. Includes JWT-based auth with role-based access for buyers/sellers, product management, shopping cart, order processing, and responsive UI.',
-    tech: ['MongoDB', 'Express', 'React', 'Node.js', 'JWT'],
-    github: 'https://github.com/sumitpandey7454/e-commerce-website',
+    title: '2.ATS Resume — AI Resume Builder',
+    desc: 'Free AI-powered ATS resume builder and score checker for students. Features Google OAuth2 login, 25+ ATS-friendly templates, 50+ job roles, Gemini AI integration for keywords, about me generation, interview prep, LinkedIn optimizer and GitHub README generator.',
+    tech: ['Spring Boot', 'React', 'MySQL', 'Gemini AI', 'JWT', 'Google OAuth2', 'TailwindCSS'],
+    github: 'https://github.com/sumitpandey7454/atsResume',
     color: '#065f46'
   },
   {
-    title: 'SmartShop — MERN E-Commerce',
+    title: '3.SmartShop — MERN E-Commerce',
     desc: 'Full-stack e-commerce platform built on MERN architecture. Includes JWT-based auth with role-based access for buyers/sellers, product management, shopping cart, order processing, and responsive UI.',
     tech: ['MongoDB', 'Express', 'React', 'Node.js', 'JWT'],
     github: 'https://github.com/sumitpandey7454/e-commerce-website',
