@@ -14,6 +14,13 @@ const projects = [
     tech: ['MongoDB', 'Express', 'React', 'Node.js', 'JWT'],
     github: 'https://github.com/sumitpandey7454/e-commerce-website',
     color: '#065f46'
+  },
+  {
+    title: 'SmartShop — MERN E-Commerce',
+    desc: 'Full-stack e-commerce platform built on MERN architecture. Includes JWT-based auth with role-based access for buyers/sellers, product management, shopping cart, order processing, and responsive UI.',
+    tech: ['MongoDB', 'Express', 'React', 'Node.js', 'JWT'],
+    github: 'https://github.com/sumitpandey7454/e-commerce-website',
+    color: '#065f46'
   }
 ]
 
