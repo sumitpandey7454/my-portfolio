@@ -13,7 +13,7 @@ const projects = [
     desc: 'Free AI-powered ATS resume builder and score checker for students. Features Google OAuth2 login, 25+ ATS-friendly templates, 50+ job roles, Gemini AI integration for keywords, about me generation, interview prep, LinkedIn optimizer and GitHub README generator.',
     tech: ['Spring Boot', 'React', 'MySQL', 'Gemini AI', 'JWT', 'Google OAuth2', 'TailwindCSS'],
     github: 'https://github.com/sumitpandey7454/atsResume',
-    color: '#065f46'
+    color: '#1e3a8a'
   },
   {
     title: '3.SmartShop — MERN E-Commerce',
