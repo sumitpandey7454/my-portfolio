@@ -61,7 +61,7 @@ export default function About() {
           style={{ display: 'flex', flexDirection: 'column', gap: '0.9rem' }}>
           {[
             { label: '🎓 Education', value: 'PGDAC — C-DAC Pune + B.Tech CSE (AKTU)' },
-            { label: '📍 Location', value: 'Mumbai, India (Open to Relocation)' },
+            { label: '📍 Location', value: 'Prayagraj, India (Open to Relocation)' },
             { label: '💼 Available', value: 'Full-Time Roles — SDE / Backend Dev' },
             { label: '⚡ LeetCode', value: 'Active problem solver' },
           ].map((item, i) => (
