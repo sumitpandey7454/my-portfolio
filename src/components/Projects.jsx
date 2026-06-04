@@ -16,7 +16,7 @@ const projects = [
     desc: 'AI-powered resume platform with free ATS score checker, 25+ templates across 50+ job roles. Integrated Google Gemini AI for keyword generation, Interview Prep module, LinkedIn & GitHub optimizer.',
     tech: ['Spring Boot', 'React', 'MySQL', 'Gemini AI', 'JWT', 'Google OAuth2', 'TailwindCSS'],
     github: 'https://github.com/sumitpandey7454/atsResume',
-    live: null,
+    live: 'https://ats-resume-six.vercel.app/',
     color: '#8b5cf6',
     gradient: 'linear-gradient(135deg, #2e1065, #4c1d95)'
   },
